@@ -1,0 +1,2 @@
+# finio-privacy
+Datenschutzerklärung FINIO
